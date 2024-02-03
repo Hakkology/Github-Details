@@ -24,7 +24,7 @@
 //     Manuel Çözüm: Geliştiriciler, çatışan kısımları manuel olarak inceleyip düzeltebilirler. Git, çatışmaları çözmek için yardımcı bilgiler sağlar.
 //     Çatışmaları Çözme ve Commit Etme: Çatışmalar çözüldükten sonra, geliştirici değişiklikleri commit eder ve birleştirme işlemini tamamlar.
 
-// 4. İletişim ve Planlama
+// 4. İletişim ve Planlama (Github Issues)
 
 //     Etkili İletişim: Ekip üyeleri arasında açık ve sürekli iletişim, projede ortak bir anlayış ve hedeflerin belirlenmesini sağlar.
 //     Proje Yönetimi Araçları: GitHub Issues gibi proje yönetimi araçları, görevlerin ataması ve takibi için kullanılabilir.

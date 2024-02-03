@@ -1,6 +1,7 @@
 // Git nedir ?
 
-// Git, yazılım geliştirme sürecinde kullanılan, kaynak kodunun versiyon kontrolünü sağlayan dağıtık bir sistemdir. Linus Torvalds tarafından 2005 yılında Linux çekirdeği geliştirme ihtiyaçlarına yönelik olarak tasarlanmıştır. 
+// Git, yazılım geliştirme sürecinde kullanılan, kaynak kodunun versiyon kontrolünü sağlayan dağıtık bir sistemdir. 
+// Linus Torvalds tarafından 2005 yılında Linux çekirdeği geliştirme ihtiyaçlarına yönelik olarak tasarlanmıştır. 
 // Git'in temel amacı, bir projede çalışan geliştiriciler arasında kod değişikliklerinin etkili bir şekilde yönetilmesini sağlamaktır.
 
 // Git'in Çalışma Prensibi
@@ -17,9 +18,12 @@
 // diğer geliştiriciler bu değişiklikleri kendi yerel depolarına çekebilir (pull) ve üzerinde çalışmaya devam edebilirler.
 
 // Git'in Özellikleri
-//     Dağıtık Yapı: Git, her geliştiricinin projenin tam bir kopyasına sahip olduğu dağıtık bir yapıya sahiptir. Bu, ağ bağlantısı olmadan çalışmayı mümkün kılar ve merkezi bir arıza noktası olmamasını sağlar.
-//     Hız ve Verimlilik: Git, projenin tarihçesini ve dosya durumlarını hızlı ve verimli bir şekilde yönetebilir. Büyük projelerde bile performansından ödün vermez.
-//     Esneklik: Git, çok sayıda iş akışı modelini destekler; örneğin, merkezi ve dağıtık modeller. Geliştiriciler, projenin ihtiyaçlarına göre en uygun iş akışını seçebilirler.
+// Dağıtık Yapı: Git, her geliştiricinin projenin tam bir kopyasına sahip olduğu dağıtık bir yapıya sahiptir. 
+// Bu, ağ bağlantısı olmadan çalışmayı mümkün kılar ve merkezi bir arıza noktası olmamasını sağlar.
+// Hız ve Verimlilik: Git, projenin tarihçesini ve dosya durumlarını hızlı ve verimli bir şekilde yönetebilir. 
+// Büyük projelerde bile performansından ödün vermez.
+// Esneklik: Git, çok sayıda iş akışı modelini destekler; örneğin, merkezi ve dağıtık modeller. 
+// Geliştiriciler, projenin ihtiyaçlarına göre en uygun iş akışını seçebilirler.
 
 // Nerede Çalışır?
 

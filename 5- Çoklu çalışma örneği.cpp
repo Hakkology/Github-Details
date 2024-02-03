@@ -3,9 +3,9 @@
 //     Feature Dalında Çalışma
 //     Öncelikle, üzerinde çalışılacak özelliğe özel bir dal oluşturulur (feature-branch). Bu dal, development dalından türetilir.
 
-// git checkout development
-// git pull origin development  # En son değişiklikleri almak için
-// git checkout -b feature-branch
+//     git checkout development
+//     git pull origin development  # En son değişiklikleri almak için
+//     git checkout -b feature-branch
 
 // Feature Dalında Geliştirme Yapma
 
@@ -28,8 +28,8 @@
 
 // Bir sürümün canlıya alınması gerektiğinde, development dalındaki değişiklikler master dalına merge edilir.
 
-// git checkout master
-// git pull origin master  # En son değişiklikleri almak için
+//     git checkout master
+//     git pull origin master  # En son değişiklikleri almak için
 
 // development Dalındaki Değişiklikleri master Dalına Merge Etme
 
